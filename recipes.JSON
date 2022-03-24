@@ -2,105 +2,84 @@
     {
         "id": "1",
         "id_cat": "1",
-        "title": "r1",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "paragrapheparagraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe paragraphe",
+        "title": "وصفة الكمون",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBosElhgaYgeIfYJsKPbIviyMekax3w1xG0KSrmxVsygyoYl2z73030U4b57ujhePdI0dOoui4DuLiGIx-6HvkNv9drgUqdmOZw11U8s3Yv8XvRwtmRrXTW-ydtjCikkZyAV3aAG-cJSd_gXCswv7e_mwY24OQcVwh0_FJqkrn-7pjpkiLkfaM_llv/s320/%D9%86%D8%B6%D9%83%D8%AE%D9%89.png",
+        "paragraphe": "هناك وسائل طبيعية سريعة يمكن للفرد السمين اتباعها لتعجيل عملية التنحيف والوصول إلى الجسم المثالي دون عناء كبير",
         "steps": [
-            "الرجيم و التخسيس الرجيم و التخسيس الرجيم و التخسيس",
-            "step2",
-            "step2",
-            "step2",
-            "step2",
-            "step2"
+            "اغلي ملعقة صغيرة من الكمون في كوب ونصف الكوب من المياه.",
+            "خلال عملية الغليان، أضيفي قطعتين من الليمون الحامض وعوداً من القرفة.",
+            "اتركي الخليط ليغلي",
+            "وبعد ذلك غطيه لمدة ١٠ دقائق",
+            "ومن ثم اشربي المزيج مرتين في اليوم."
         ]
     },
     {
         "id": "2",
         "id_cat": "1",
-        "title": "r1",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "paragraphe",
+        "title": "وصفة المياه الساخنة مع الليمون الحامض",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo3R96QquUiZ8X_jQBJzoBOLfXFfOeDywWh8U1mgqDXVRG-jjgZJZheat8KnGAKbv_5SWn9xJ9jYMUaWmZZAJTw5HgJJa1nCOzOM-3H6hy-UB8ve-gCfOSmqZbLpNyrAJNzcgzCke3q5zl8euYAQxdKs51gZMz_iN2ypXW3y1zFxKahd02I3fp-9oW/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA.png",
+        "paragraphe": "هذه الوصفة هي الأشهر في عالم تخسيس الوزن. تشير الأبحاث إلى أنّ هذه الوصفة كفيلة بحرق دهون الجسم والحد من الشهية خلال النهار.",
         "steps": [
-            "step1",
-            "step2",
-            "step3"
+            "يتم غلي كوبين من المياه مع عصير نصف ليمون حامض",
+            "شرب المزيج صباحاً قبل تناول أي نوع من الأطعمة."
         ]
     },
     {
         "id": "3",
         "id_cat": "1",
-        "title": "r1",
-        "imgURL": "https://www.thaqafnafsak.com/wp-content/uploads/2022/03/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%83%D8%A7%D9%83%D8%A7%D9%88-%D8%A7%D9%84%D8%AE%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D9%84%D8%A8%D9%86.jpg",
-        "paragraphe": "paragraphe",
+        "title": "وصفة البقدونس مع الثوم",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaXgdvn08UYigkOg5Z4j_qGFsikLLSVxD0r3SIPYfZYrMMR44RnLlE-EysfbKKad86zDh6JpcBIaPckYHNjcPYj3V-ZfCM1yKTdNiijhWUyv6nULvERxrmG--zP3_cr0RzF8xlF4n7pkKCCTyhUZfu91Dl4AWNYbPhKGrEwat3hgEMkunaeDa9el7/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(1).png",
+        "paragraphe": "قد يلاحظ البعض زيادة متسارعة في الوزن، نتيجة اضطراب هرمونيّ داخلي أو بسبب نمط الحياة المكتبية أو لأسبابٍ أخرى تتعلّق بالتغذية الخاطئة، الأمر الذي يؤدّي في النهاية إلى إصابتهم بالسمنة وتراكم الدهون في مناطق مختلفة من الجسم كالأرداف والفخذين والبطن، وهذا يتسبّب بانزعاج كبير لديهم، نظراً لبشاعة مظهرهم الخارجي، إضافة إلى المشاكل الصحية المترتبة على السمنة والتي قد تعيق حياتهم لسنواتٍ طويلة. ومن هنا يلجأ البعض إلى اتباع طرق مختلفة للتخلص من هذه المشكلة المتعبة",
         "steps": [
-            "step1",
-            "step2"
+            "قشري ٣ فصوص من الثوم واغليها في ٣ أكواب من المياه.",
+            "اطفئي النار وأضيفي البقدونس واتركي المزيج لمدة ٣٠ دقيقة.",
+            "صفي المزيج بواسطة المصفاة واشربي منه كوباً قبل تناول وجبتك الرئيسية"
         ]
     },
     {
         "id": "4",
-        "id_cat": "2",
-        "title": "r1",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "paragraphe",
+        "id_cat": "1",
+        "title": "وصفة الخل والعسل",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9Ow3a6KWZo5Bove45fOEUOg616W1rk87z8FKhRRw_YCaWpe8RmYwRU7OE90xdMPAzJQ53av5-89SdCwfE0Z8joHdig4wV0GCiLiKawQFx86MzVPegUAkNSSULR1xi4jKhzDBmaWSsIBQyGoYD8lSeseBWIsXjMk71dm5bl-SRIo9WxsxZpuk-RpS/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(2).png",
+        "paragraphe": "هذه الوصفة كفيلة بحرق الدهون ومكافحة ارتفاع الكوليسترول",
         "steps": [
-            "step1",
-            "step2"
+            "ملعقة صغيرة من العسل ",
+            "ملعقة صغيرة من خل التفاح",
+            "نصف كوب من المياه الفاترة.",
+            "اشربي الخليط قبل تناول الوجبة.",
+            "هذه الوصفة كفيلة بحرق الدهون ومكافحة ارتفاع الكوليسترول"
         ]
     },
     {
         "id": "5",
-        "id_cat": "2",
-        "title": "ولا منتجات ابل فيها اكسير",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "جماهير ريال مدريد تستعد لعمل تيفو خاص بمبابي ، للتأثير على قراره بشأن الرحيل عن باريس.",
+        "id_cat": "1",
+        "title": "وصفة الزنجبيل مع النعناع",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmQz6MTA7lf5uKKq-JoWeYizoGsvVaGZDAZYhdJLdxYFZnnQ719g3ClMBjKQBZqU_k2q-2vFAYP67Dsc2SSFd6UTrJSCGoVsOPfygEI-Pl-USdOFxtT0jj1OYN_Gf_3y-xLvIoNl3i6GAvnPmWiSB759s_MY5ZR9EKHaO4jXKD8EKxlN52u12OSV2/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(3).png",
+        "paragraphe": "قد يستعينوا بخبراء التغذية أو بعض المدربين الرياضيين لعمل برامج منتظمة لتخسيس بضعة كيلوغرامات من أجسامهم، وقد يتطلب ذلك فترة زمنية طويلة قد تصيب البدناء بالضغط النفسي أو الملل، نتيجة عدم حصولهم على الشكل المطلوب سريعاً. وهناك وسائل طبيعية سريعة يمكن للفرد السمين اتباعها لتعجيل عملية التنحيف والوصول إلى الجسم المثالي دون عناء كبير",
         "steps": [
-            "step1",
-            "step2"
+            "قطعي الزنجبيل إلى قطع صغيرة",
+            "اغسلي أوراق النعناع وضعيها في قدر على النار مع كوبين من المياه واتركي الخليط يغلي على نار هادئة",
+            "اطفئي النار وصفي الخليط واشربيه مرتين في اليوم"
         ]
     },
     {
         "id": "6",
-        "id_cat": "3",
-        "title": "r1",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "paragraphe",
+        "id_cat": "1",
+        "title": "الموز فاكهة الطاقة والقوة",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQL55b7JiRgJZeBMo8mNIKsKZva92rsvO61r498qmvX6_u5mIyBuUuaNvgyBFoDEj27P5XJ88Ptjy1t0_ZVov1vgDCOAaKIl-gquO05HsVG3y_8SL-m1_EVHL8Y00cu14buSZ0oLHDd1zEd37LsPTaMxAf7mDAOFYY75eouSIoWaxXTRejWHOY15H/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(4).png",
+        "paragraphe": "من الفواكة المحببة للجميع ويحتوى الموز على نسبة عالية من المعادن مثل والبوتاسيوم ، ايضا نسبة كبيرة من فيتامين ب6 ،و بالتالى يعد الموز من فاكهة للتخسيس و خفض الوزن والموز ضيف اساسى على كثير من الانظمة الغذائية",
         "steps": [
-            "step1",
-            "step2"
+            "ينصح بتناول ثمرتين موز على الاقل يوميا."
         ]
     },
     {
         "id": "7",
-        "id_cat": "4",
-        "title": "r1",
-        "imgURL": "https://www.thaqafnafsak.com/wp-content/uploads/2022/03/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%83%D8%A7%D9%83%D8%A7%D9%88-%D8%A7%D9%84%D8%AE%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D9%84%D8%A8%D9%86.jpg",
-        "paragraphe": "paragraphe",
+        "id_cat": "1",
+        "title": "البرتقال",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVV5dzDptsVDB5YCcSoj0_sI9l0f29oNGt0IXtNI2HlDhpDo2cz9HH5RLsrEXuE_3hcefBkQfcm6aOr8fskmlwGDh9HUvNJMwldOsm8ItPw5Q3E3yJh_UpCFLg_CZWzrj5OZTCXMXbqmEe8lldQM4m591mA1ve2SOTR-dSEuuhNKUAAVxrH4kSqj1/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(5).png",
+        "paragraphe": "يعد البرتقال من مضادات الأكسدة التى تحافظ على الصحة ، كما أنه غنى بالألياف الغذائية التى تساعد فى حماية القلب وصحته يمكن ان تأكل ثمرة البرتقال لتعظيم الفائدة او يمكن شربه كعصير",
         "steps": [
-            "step1",
-            "step2"
-        ]
-    },
-    {
-        "id": "8",
-        "id_cat": "4",
-        "title": "last",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "paragraphe",
-        "steps": [
-            "step1",
-            "step2"
-        ]
-    },
-    {
-        "id": "9",
-        "id_cat": "4",
-        "title": "9",
-        "imgURL": "https://i.ytimg.com/vi/XBKzpTz65Io/maxresdefault.jpg",
-        "paragraphe": "paragraphe",
-        "steps": [
-            "step1",
-            "step2"
+            "الحرص على تقليل اضافة السكريات للبرتقال ."
         ]
     }
 ]
