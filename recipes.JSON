@@ -157,5 +157,15 @@
             "يُغطى الوعاء بغطاء أو غلاف بلاستيكي ويوضع في الثلاجة حتى تبرد لمدة ساعة إلى ساعتين.",
             "عندما يصبح جاهزًا للتقديم ، أضف الشبت الطازج والبقان المفروم. يقدم باردا وبالهنا والشفا."
         ]
+    },
+    {
+        "id": "13",
+        "id_cat": "3",
+        "title": "وصفة زيت الزيتون لتبييض الأسنان",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6clzw-EkaJiR0LJsBzGBZ_4NNv9rAa3bMRI2UjnDCSed80Q_Eqzu7WrsuYq0SOI_huGixIMYSb8inKzQgosKxDWZRUMboU74xIIm_d4gDUykvGjyBjDmEc_MsBmgG22PGt_Of-Ku5XIW5UBSQ09P6fHS67P5YgweGfUCxALLQXWYEmQQnb93lCgX/s1080/11.jpg",
+        "paragraphe": "من الطرق الفعالة والبسيطة لتبييض الأسنان، كما أن زيت الزيتون مهم لصحة اللثة وتقويتها وحمايتها من التعرّض للنزيف.",
+        "steps": [
+            "وضع قطرات من زيت الزيتون على قطعة من القطن ثم فرك الأسنان بها ما يساعد على تبييضها"
+        ]
     }
 ]
