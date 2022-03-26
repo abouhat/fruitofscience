@@ -167,5 +167,49 @@
         "steps": [
             "وضع قطرات من زيت الزيتون على قطعة من القطن ثم فرك الأسنان بها ما يساعد على تبييضها"
         ]
+    },
+    {
+        "id": "14",
+        "id_cat": "3",
+        "title": "وصفة عصير الليمون لتبييض الأسنان",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggK7PKa62CiEQ4NP5UQu-lZp3R7afaEVY2---5FDRLzfEZ0__dv3wQzaHDV1hrufD6BjTkcjtMm0eJ-T01Ei3Co1uxrTorZwG6_n8bEBF9lmmX2J6b5PNCrLP8r1IM0KNb5qPoyfiQBjL7DTBc0xm8ObWi89s6SJXmOvF71PqygXI7JkLNQtBuGjk6/s1024/2.jpg",
+        "paragraphe": "للحصول على أسنان بيضاء لامعة يمكنك خلط ملعقة من عصير الليمون مع القليل من صودا الخبز، ثم فرك الأسنان بها جيداً باستخدام فرشاة الأسنان",
+        "steps": [
+            "مع الحرص على عدم ترك الخليط على الأسنان لفترة طويلة."
+        ]
+    },
+    {
+        "id": "15",
+        "id_cat": "3",
+        "title": "وصفة قشر الموز لتبييض الأسنان",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidYBxYgjI6YNb1oVCQg0wzbGuzOoqeziW4U8-gMgV6If2Xczc8MEk3Y40px3nHYKidcQ7HPlgvmHjBNQZYfpoAMRyZQoDQG32q4hTbLFrx88M3ye13qgnxz7f3KQJXmGiG2LU1KiCfqyFki3-W80Hf_VTotEBrzIe2_jhxVBoUHD1nbezG5vhdd517/s1080/3.jpg",
+        "paragraphe": "قشر الموز يحتوي على البوتاسيوم والماغنسيوم وبعض المعادن الأخرى التي بدورها تساعد على تبييض الأسنان",
+        "steps": [
+            "يمكنك تدليك الأسنان بجزء من قشر الموز."
+        ]
+    },
+    {
+        "id": "16",
+        "id_cat": "3",
+        "title": "وصفة الفراولة لتبييض الأسنان",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8GrFe4SS9STvVE8EBE4oO6v-emhF7rbu8VyUaHJsljopuO1jPyj4MWacTdd-pWOrFm1D2RCTEveqUdted6RAS7XltNK07Hx9AAwVvUF5e0EP2eZzN23Rzww3uRheFKQx1EQiSha8_EgdQpDsPXHSeSQ0CCISli6Tb2p5LWutCvfE4JxxZkLCzUOEl/s1138/4.webp",
+        "paragraphe": "الفراولة مهمة للتخلص من اصفرار الأسنان، إذ إنها تحتوي على حمض الماليك وهو من الأحماض الفعالة للتخلص من تراكمات الشاي والقهوة",
+        "steps": [
+            "مكنك خلط ثمرتين من الفراولة المهروسة مع ملعقة صغيرة من صودا الخبز",
+            "فرك الأسنان بها لبضع دقائق وتغسل الأسنان بعدها بالماء."
+        ]
+    },
+    {
+        "id": "17",
+        "id_cat": "3",
+        "title": "تبييض الأسنان بالفحم",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSG_PpAWnLVy4PWBt2Ps3WRWVHW7ik0nXYvBtSULop1wSh0l_Mp6rOn6VeVaa7wrBCCDwn3CrRiXC9zNhoGWhWX3EFXCD49zSGr9Q0FXbVc_gBfQCQ-ngsdlyd17nIURsrqqb58r9_Xrt908RYSwvaudpL1CpAKXWreAw4y32fO49LPwwunFPSRnPy/s800/5.jpg",
+        "paragraphe": "للحصول على وصفة لتبيض الأسنان من الصفار يمكنك استخدام الفحم والذي يعد من أفضل المكونات التي لها دور كبير في التخلص من البقع الصفراء على الأسنان.",
+        "steps": [
+            "عليك بترطيب فرشاة الأسنان بالقليل من الماء ثم وضع مسحوق الفحم عليها.",
+            "تفريش الأسنان بشكل جيد بتحريك الفرشاة بحركات من الأعلى إلى الأسفل.",
+            "الاستمرار في تفريش الأسنان لمدة 5 دقائق، ثم غسل الأسنان والمضمضة بالماء.",
+            "عليك بتكرار هذه الوصفة لمدة 5 أيام للحصول على نتائج فعالة لتبييض الأسنان بشكل أفضل."
+        ]
     }
 ]
