@@ -211,5 +211,52 @@
             "الاستمرار في تفريش الأسنان لمدة 5 دقائق، ثم غسل الأسنان والمضمضة بالماء.",
             "عليك بتكرار هذه الوصفة لمدة 5 أيام للحصول على نتائج فعالة لتبييض الأسنان بشكل أفضل."
         ]
+    },
+    {
+        "id": "18",
+        "id_cat": "4",
+        "title": "شاي النعناع",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillwzNLkiXAd-aKAVij8SCyTWva-vDL9trahLHbBp_A7wdcOxYDS22J5qJV9PJMOoVOKvNWOFc7DnxoekNOYFtIw1bOi61_ZxNW3ybpFP3pGkU4GsDKPGbhrocbXN0_9bq74_UxYPse4ISjXIAavXJkSRFcOMHKA-Oe21CIZF7prW7y7bLz1ZRCAM9/s571/1.png",
+        "paragraphe": "يعتبر النعناع أحد أشهر الأعشاب لعلاج القولون العصبي وأعراضه أيضًا، فهو يعمل على إراحة الجهاز الهضمي واسترخاء عضلاته وعلاج مشاكله المختلفة، من مغص ونفخة وغازات وتقلصات معوية. بينت إحدى الدراسات الدور الذي يلعبه النعناع في علاج أعراض القولون العصبي، حيث تبين أنه يساهم في استرخاء عضلات الأمعاء ويعتبر طارد للغازات، وأما بالنسبة إلى طريقة استخدامه فهي تتم من خلال اتباع الآتي",
+        "steps": [
+            "يمكنك غلي أوراق النعناع وشربها مباشرة.",
+            "نقع أوراق النعناع لمدة بالمياه الفاترة ومن ثم شرب المنقوع.",
+            "إضافة زيت النعناع إلى المياه الساخنة."
+        ]
+    },
+    {
+        "id": "19",
+        "id_cat": "4",
+        "title": " شاي اليانسون",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiSCsjdxys3GedUzcd8RdsxJTJ4_pHyfwoHzENxVSsPagJeEvD6bPEoTjhmDdhAxsCvFNj5jWbgHsjju_5cgl-Rz3paq53mR8BkRtfD_H2xWc5LCsW1oYIj47h0wPMDvfqc1fngNlTcQju03TWq0gjcqULhErN-mDIjjUW4P5d4Y1IiDN1uexkbS8I/s475/2.png",
+        "paragraphe": "لطالما استخدم اليانسون لعلاج العديد من المشاكل الصحية وخاصة مشاكل الجهاز الهضمي والمعدة، فهو يمتلك خواص مهدئة، وبذلك يُعد من أفضل الأعشاب لعلاج القولون العصبي",
+        "steps": [
+            "أما لكيفية استخدامه فهي تتم من خلال غلي أو نقع ملعقة كبيرة من بذور اليانسون في الماء الفاتر",
+            " أو إضافة مسحوقها إلى كوبين من المياه المغلية وشربها لتحصل على الفائدة."
+        ]
+    },
+    {
+        "id": "20",
+        "id_cat": "4",
+        "title": " شاي الشمر",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY0STWdd3BrmpZVldhWzf_SSBjnapcN1HtfIeMKd2iaARjBIOmgywQKmKRIcP-H6LxpbAFIWr_ISRqe9w6M27F-M5NGmNR_xWQ9kE6uj1UkxsoJISQBnMEW3PiaGx77ctWD29tQ2oR0iUD-cjklJaWEJsZJ20y4sH9YpXr5T7cnT8d6pYg0LV_0l9H/s401/33333.png",
+        "paragraphe": "يعتبر شاي الشمر علاج مستخدم في طرد الغازات، والتخلص من النفخة والتلبكات المعوية، وهو يعمل على استرخاء عضلات الأمعاء، وعلاج الإمساك. في دراسة تبين أن خليط من زيت الشمر مع الكركم ساهم في علاج أعراض القولون العصبي بشكل إيجابي، وبعد ثلاثين يوم شعر المشتركون بأن الأعراض قد اختفت وأصبحو يشعرون بألم أقل في البطن وشعروا براحة أكثر بتحسن جودة حياتهم. كما وبينت دراسة أخرى أن خلط الشمر مع بذور الكراوية والنعناع ساهم بشكل كبير في علاج أعراض القولون العصبي",
+        "steps": [
+            "يتم القيام بتحضيره عامةً من خلال استخدم ملعقتين كبيرتين من مسحوق بذور الشمر مع كوب كبير من المياه الساخنة واتركهما ليختلطوا جيدًا لمدة عشر دقائق",
+            " أو من خلال استخدام أكياس الشمر"
+        ]
+    },
+    {
+        "id": "21",
+        "id_cat": "4",
+        "title": " فوائد شرب شاي الأعشاب لعلاج القولون العصبي",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHoyNl9fMkqieZ-F1QtSCvNrU57rCzM0ph6LurhcwN1s7mcc6paKjluDEyBS_NnLs8NKIghXkzdj29Z9t7O9JV7R1l9wsOfcBNPQ6JIf5kznd9ZvxmVzXCd1TOy8Ao6NAW8GTT4hyr1jjmo2og_IFY9gxSV2vTIPgMuniBtrPGSppqOQyTBO0W94Is/s1200/4.png",
+        "paragraphe": "العديد من الفوائد قد يحملها لك شرب الأعشاب المنوعة ولكن بشكل عام توجد مجموعة مرتبطة منها بعلاج القولون، وهي",
+        "steps": [
+            "يساعد شاي الأعشاب على الاسترخاء ويقلل من الضغوطات النفسية",
+            "يساعد على استرخاء عضلات الأمعاء وعلاج التقلصات المعوية",
+            "زيادة كمية السوائل المتناولة التي تعمل على تنظيم عمل الجهاز الهضمي",
+            "كونها تشرب ساخنة تساهم في إراحة الجهاز الهضمي وتسهيل عملية الهضم"
+        ]
     }
 ]
