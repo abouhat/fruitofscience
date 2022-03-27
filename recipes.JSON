@@ -258,5 +258,41 @@
             "زيادة كمية السوائل المتناولة التي تعمل على تنظيم عمل الجهاز الهضمي",
             "كونها تشرب ساخنة تساهم في إراحة الجهاز الهضمي وتسهيل عملية الهضم"
         ]
+    },
+    {
+        "id": "22",
+        "id_cat": "5",
+        "title": " مقشر القهوة",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiFfVWI0bFEwgNo2SRDt6yk6uEIWvT-UPOD9Bx3jeyRH5INGm3vMshxGgYpZv6KKi0mMjnznuva2efEW09ZQ2A_nQUeYSt64tzUj8Uj58H0BAX1KSgoxQXO7Q8cF407ZvkHFPXhus3x2olIQg2wyaG1qj0LfmuUK3vkK1KCmv5eunO0GJ-mdbRUvP9/s320/1.png",
+        "paragraphe": "القهوة الخام تعد من أفضل أنواع التقشير نظرا لتركيبتها المنعشة، واحتوائها على حمض الكافيك الذى يحمل خصائص مضادة للالتهاب ويساعد على زيادة إنتاج الكولاجين مما يساعد في جعل بشرتك ناعمة وصحية",
+        "steps": [
+            "اخلطي ملعقة كبيرة من القهوة المطحونة مع ملعقة كبيرة من المياه أو زيت الزيتون ووزعى  الخليط على بشرتك",
+            "اتركي القناع على بشرتك لمدة 15 دقيقة ثم اغسلى وجهك بالمياه الفاترة",
+            "وفى حالة البشرة الدهنية فلا يفضل استخدام زيت الزيتون  فى المكونات واستبداله بالمياه"
+        ]
+    },
+    {
+        "id": "23",
+        "id_cat": "5",
+        "title": "مقشر من البيكينج صودا",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQZhBJWNvdspJ_tVG_ARJGZnQW1ToC_Q7rHd0FCJxAd-6IRCismBgkxnJYgVj4TH7wzRvga05W58UIKoe13_LA9OC-i9KPSLp59JeEXbPmFCVL-DLKyDFFpZi-vwFC-VCDOw-PZl3k-KDcOd0aHMmcZC3RhAxo-1184n9MhPpT89ATBmTjU6yOeAE/s320/2.png",
+        "paragraphe": "يُعد بيكربونات الصوديوم مُقشر لطيف للبشرة",
+        "steps": [
+            "اخلطي بيكربونات الصوديوم مع المياه وضعيها على الوجه",
+            "واتركيه على بشرتك لمدة 10 دقائق ثم اغسلي وجهك بالماء الفاترة وجففيه باستخدام المنشفة",
+            "يمكنك استخدام خليط العسل وبيكربونات الصوديوم، وبالنسبة للبشرة الحساسة، يمكنك استخدام بيكربونات الصوديوم والصبار"
+        ]
+    },
+    {
+        "id": "24",
+        "id_cat": "5",
+        "title": "قناع الأفوكادو والسكر",
+        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx6d5KBEY6csKaCuaJNdBsW4A9JlKHMXphOUxmHQvOKH87lNXdc2ju1scjiZvRydq58CJEbZLnaOlBWOFRmSFiaG3WhlWzSeFO--xNx2pobJCapPK5FNOyO3LoIIjkq32P2KJ9npeMyRFIl0QtezfljWR7mcpMWn8XziCjAdQm7nRUfgeXcxaZAlIb/s320/3.png",
+        "paragraphe": "ويفيد السكر فى عمل التقشير، بينما يساعد الافوكادو والعسل على الترطيب",
+        "steps": [
+            "ستحتاجين إلى هرس ثمرة من الأفوكادو وخلطها مع  ملعقتين كبيرتين من العسل وملعقة كبيرة من السكر",
+            "اتركى المقشرعلى بشرتك لمدة 15-20 دقيقة ثم غسله بالماء الفاتر",
+            "ولصاحبات البشرة الدهنية يمكن إضافة 1-2 ملعقة صغيرة من عصير الليمون الطازج للمساعدة فى شد الجلد وتجفيف المسام"
+        ]
     }
 ]
