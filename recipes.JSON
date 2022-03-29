@@ -14,75 +14,6 @@
         ]
     },
     {
-        "id": "2",
-        "id_cat": "1",
-        "title": "وصفة المياه الساخنة مع الليمون الحامض",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo3R96QquUiZ8X_jQBJzoBOLfXFfOeDywWh8U1mgqDXVRG-jjgZJZheat8KnGAKbv_5SWn9xJ9jYMUaWmZZAJTw5HgJJa1nCOzOM-3H6hy-UB8ve-gCfOSmqZbLpNyrAJNzcgzCke3q5zl8euYAQxdKs51gZMz_iN2ypXW3y1zFxKahd02I3fp-9oW/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA.png",
-        "paragraphe": "هذه الوصفة هي الأشهر في عالم تخسيس الوزن. تشير الأبحاث إلى أنّ هذه الوصفة كفيلة بحرق دهون الجسم والحد من الشهية خلال النهار.",
-        "steps": [
-            "يتم غلي كوبين من المياه مع عصير نصف ليمون حامض",
-            "شرب المزيج صباحاً قبل تناول أي نوع من الأطعمة."
-        ]
-    },
-    {
-        "id": "3",
-        "id_cat": "1",
-        "title": "وصفة البقدونس مع الثوم",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaXgdvn08UYigkOg5Z4j_qGFsikLLSVxD0r3SIPYfZYrMMR44RnLlE-EysfbKKad86zDh6JpcBIaPckYHNjcPYj3V-ZfCM1yKTdNiijhWUyv6nULvERxrmG--zP3_cr0RzF8xlF4n7pkKCCTyhUZfu91Dl4AWNYbPhKGrEwat3hgEMkunaeDa9el7/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(1).png",
-        "paragraphe": "قد يلاحظ البعض زيادة متسارعة في الوزن، نتيجة اضطراب هرمونيّ داخلي أو بسبب نمط الحياة المكتبية أو لأسبابٍ أخرى تتعلّق بالتغذية الخاطئة، الأمر الذي يؤدّي في النهاية إلى إصابتهم بالسمنة وتراكم الدهون في مناطق مختلفة من الجسم كالأرداف والفخذين والبطن، وهذا يتسبّب بانزعاج كبير لديهم، نظراً لبشاعة مظهرهم الخارجي، إضافة إلى المشاكل الصحية المترتبة على السمنة والتي قد تعيق حياتهم لسنواتٍ طويلة. ومن هنا يلجأ البعض إلى اتباع طرق مختلفة للتخلص من هذه المشكلة المتعبة",
-        "steps": [
-            "قشري ٣ فصوص من الثوم واغليها في ٣ أكواب من المياه.",
-            "اطفئي النار وأضيفي البقدونس واتركي المزيج لمدة ٣٠ دقيقة.",
-            "صفي المزيج بواسطة المصفاة واشربي منه كوباً قبل تناول وجبتك الرئيسية"
-        ]
-    },
-    {
-        "id": "4",
-        "id_cat": "1",
-        "title": "وصفة الخل والعسل",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9Ow3a6KWZo5Bove45fOEUOg616W1rk87z8FKhRRw_YCaWpe8RmYwRU7OE90xdMPAzJQ53av5-89SdCwfE0Z8joHdig4wV0GCiLiKawQFx86MzVPegUAkNSSULR1xi4jKhzDBmaWSsIBQyGoYD8lSeseBWIsXjMk71dm5bl-SRIo9WxsxZpuk-RpS/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(2).png",
-        "paragraphe": "هذه الوصفة كفيلة بحرق الدهون ومكافحة ارتفاع الكوليسترول",
-        "steps": [
-            "ملعقة صغيرة من العسل ",
-            "ملعقة صغيرة من خل التفاح",
-            "نصف كوب من المياه الفاترة.",
-            "اشربي الخليط قبل تناول الوجبة.",
-            "هذه الوصفة كفيلة بحرق الدهون ومكافحة ارتفاع الكوليسترول"
-        ]
-    },
-    {
-        "id": "5",
-        "id_cat": "1",
-        "title": "وصفة الزنجبيل مع النعناع",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmQz6MTA7lf5uKKq-JoWeYizoGsvVaGZDAZYhdJLdxYFZnnQ719g3ClMBjKQBZqU_k2q-2vFAYP67Dsc2SSFd6UTrJSCGoVsOPfygEI-Pl-USdOFxtT0jj1OYN_Gf_3y-xLvIoNl3i6GAvnPmWiSB759s_MY5ZR9EKHaO4jXKD8EKxlN52u12OSV2/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(3).png",
-        "paragraphe": "قد يستعينوا بخبراء التغذية أو بعض المدربين الرياضيين لعمل برامج منتظمة لتخسيس بضعة كيلوغرامات من أجسامهم، وقد يتطلب ذلك فترة زمنية طويلة قد تصيب البدناء بالضغط النفسي أو الملل، نتيجة عدم حصولهم على الشكل المطلوب سريعاً. وهناك وسائل طبيعية سريعة يمكن للفرد السمين اتباعها لتعجيل عملية التنحيف والوصول إلى الجسم المثالي دون عناء كبير",
-        "steps": [
-            "قطعي الزنجبيل إلى قطع صغيرة",
-            "اغسلي أوراق النعناع وضعيها في قدر على النار مع كوبين من المياه واتركي الخليط يغلي على نار هادئة",
-            "اطفئي النار وصفي الخليط واشربيه مرتين في اليوم"
-        ]
-    },
-    {
-        "id": "6",
-        "id_cat": "1",
-        "title": "الموز فاكهة الطاقة والقوة",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQL55b7JiRgJZeBMo8mNIKsKZva92rsvO61r498qmvX6_u5mIyBuUuaNvgyBFoDEj27P5XJ88Ptjy1t0_ZVov1vgDCOAaKIl-gquO05HsVG3y_8SL-m1_EVHL8Y00cu14buSZ0oLHDd1zEd37LsPTaMxAf7mDAOFYY75eouSIoWaxXTRejWHOY15H/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(4).png",
-        "paragraphe": "من الفواكة المحببة للجميع ويحتوى الموز على نسبة عالية من المعادن مثل والبوتاسيوم ، ايضا نسبة كبيرة من فيتامين ب6 ،و بالتالى يعد الموز من فاكهة للتخسيس و خفض الوزن والموز ضيف اساسى على كثير من الانظمة الغذائية",
-        "steps": [
-            "ينصح بتناول ثمرتين موز على الاقل يوميا."
-        ]
-    },
-    {
-        "id": "7",
-        "id_cat": "1",
-        "title": "البرتقال",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVV5dzDptsVDB5YCcSoj0_sI9l0f29oNGt0IXtNI2HlDhpDo2cz9HH5RLsrEXuE_3hcefBkQfcm6aOr8fskmlwGDh9HUvNJMwldOsm8ItPw5Q3E3yJh_UpCFLg_CZWzrj5OZTCXMXbqmEe8lldQM4m591mA1ve2SOTR-dSEuuhNKUAAVxrH4kSqj1/s320/%D9%88%D8%B5%D9%81%D8%A7%D8%AA%20%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9%20%D9%84%D8%AC%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%AA%20(5).png",
-        "paragraphe": "يعد البرتقال من مضادات الأكسدة التى تحافظ على الصحة ، كما أنه غنى بالألياف الغذائية التى تساعد فى حماية القلب وصحته يمكن ان تأكل ثمرة البرتقال لتعظيم الفائدة او يمكن شربه كعصير",
-        "steps": [
-            "الحرص على تقليل اضافة السكريات للبرتقال ."
-        ]
-    },
-    {
         "id": "8",
         "id_cat": "2",
         "title": "وصفة قهوة الكيتو",
@@ -95,70 +26,6 @@
         ]
     },
     {
-        "id": "9",
-        "id_cat": "2",
-        "title": "وصفات افوكادو كيتو بالبيض واللحم",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyhV5HVDwPlbVzitJQ4saRWCEr3nHZYlcdGoBGgX592QDG5uLYHDyHJCiNpVGbXea5BwqEeLniLTvgtwsXnjXdeYD8BiMMeoJxPKCj8KWnQWUq3GLZ45xBbLKcFwJ7KRCfLHd1jveZ5NmeEpSnOVHDZuedVT2pHtBoXeeBI-bRJ3wLfNRndsS1MI-8/s684/Screenshot%202022-03-26%20031526.png",
-        "paragraphe": "وصفات كيتونية للافطار  وصفات افوكادو كيتو بالبيض واللحم (إحدى ألذ وجبات كيتو)",
-        "steps": [
-            "ابدأ بتجريف معظم الأفوكادو ، واترك حوالي سنتمتر حول من الأفوكادو.",
-            "ضع قدرًا كبيرًا على نار خفيفة وأضف الزبدة. أثناء ذوبان الزبدة ، قم بتكسير البيض في إبريق وضربه ، مع إضافة قليل من الملح والفلفل.",
-            "أضف اللحم المقدد إلى جانب واحد من المقلاة واتركها تقلى لبضع دقائق من تلقاء نفسها. ثم أضف البيض إلى الجانب الآخر من المقلاة وقلبه بشكل منتظم أثناء الخلط.",
-            "يجب أن يجهز البيض واللحم المقدد على حد سواء بعد 5 دقائق من إضافة البيض إلى المقلاة.",
-            "إذا وجدت أن البيض قد اصبح جاهزا قبل اللحم المقدد بقليل ، قم بإزالة البيض المخفوق من المقلاة وضعه في وعاء.",
-            "امزج قطع اللحم المقدد والبيض المخفوق معًا في وعاء ، ثم باستعمال ملعقة ضع مزيج البيض واللحم في  أوعية الأفوكادو وتناوله بصحة!"
-        ]
-    },
-    {
-        "id": "10",
-        "id_cat": "2",
-        "title": "وجبة شوفان الكيتو",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKO00Ewq-bN35vGtQ4k6joug_PSOIVoaudvB9rO3GSejfNQV9SkkJMoSB8H-hXxDYyUfavE4WICbRH9sVcmf0Jn3_cW-SQ-ysw-h6_XMlBI8B2xXrZw_2C69tICdOHmLFqa6Nz6VbFjZ7pEGzj_5udkYdcVpvb70-zCoMwPo-N-AKkKiGKjvpjER35/s320/123.png",
-        "paragraphe": "كيف تصنع دقيق الشوفان بدون شوفان؟ يمكنك استخدام مكونات عالية البروتين ومنخفضة الكربوهيدرات ، والتي تجعل وجبة فطور كيتو شهية.",
-        "steps": [
-            "1 كوب لبن لوز غير محلى",
-            "1/2 كوب قلوب القنب",
-            "1 ملعقة طعام من بذور الكتان",
-            "1 ملعقة كبيرة من بذور الشيا",
-            "1 ملعقة كبيرة من رقائق جوز الهند",
-            "1 ملعقة صغيرة قرفة",
-            "1 ملعقة من مسحوق زيت الفانيليا MCT (أو 1 ملعقة طعام من ستيفيا وملعقة كبيرة من زيت جوز الهند)",
-            "امزج كل المكونات في قدر صغير مع التحريك.",
-            "يُغلى المزيج على نار خفيفة حتى يصبح سميكاً حسب رغبتك ، ويُحرّك أحياناً.",
-            "يزين بالتوت المجمد."
-        ]
-    },
-    {
-        "id": "11",
-        "id_cat": "2",
-        "title": "اللحم المقدد مع البيض والجبن",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8NulzEY7K_Ny3Sg87kqDgszHsP3m1MCQseuXulStNzk6SZGO79elTAcK-fIs3auaZTJwOeujpMpgiIkJ09--GjtokxphZOeYUwPt3T1ODH7oq3aeWriE5F-OutSUxCtstFG0MBq0AZ-MUVbnsuMWgTfJWRCeIf_qzVhqge6APRoLmw4B7zmyLPgYw/s320/4.png",
-        "paragraphe": "وصفات كيتو للغذاء اللحم المقدد مع البيض والجبن",
-        "steps": [
-            "cيسخن الفرن إلى℉ 350 أو 177.",
-            "يطهى اللحم المقدد على موقد مسطح. بمجرد طهيه وتبريده ، يتحول إلى قطع صغيرة الحجم.",
-            "قم بتكسير البيض في وعاء متوسط الحجم. أضف الكريمة الحامضة والكريمة المخفوقة الثقيلة والملح والفلفل واخلطها بخلاط يدوي أو في الخلاط حتى تمتزج جيداً.",
-            "رش مقلاة 9 × 13 مع رذاذ طبخ زيت الأفوكادو. لتحريك ، قم بعمل طبقة واحدة من جبن الشيدر.",
-            "فوق الجبن ، قم بسكب خليط البيض ثم قم بوضع لحم الخنزير المقدد المتفتت طبقة علوية.",
-            "اخبزها لمدة 35 دقيقة ، تحقق بعد 30 دقيقة. تُرفع من الفرن بمجرد أن تصبح حواف الكسرولة بنية ذهبية."
-        ]
-    },
-    {
-        "id": "12",
-        "id_cat": "2",
-        "title": "سلطة بالدجاج",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuN31aatBqncbPKM5AtxI_Dt8qrF7nKXlN8H8FqjQbM-c4m4dqfdLkMUfs2NMa99v83oi91gaSm43rFInbiY49JRtY-MY4Pk-kKxm6-IVSJoFH6upRKB2mwjBttOzIWhiixrVNmmfiWYKRCgaZ-4lHb_Q8bDotDmVbiFTFIc13e4fidWj0pwN5fOM/s320/bvn.png",
-        "paragraphe": "وصفات كيتو للغذاء سلطة بالدجاج",
-        "steps": [
-            "يسخن الفرن إلى 450 ℉ أو 232 وتغطى صينية الخبز  بورق الزبدة.",
-            "يُخبز صدر الدجاج حتى ينضج طوال 15 دقيقة تقريباً.",
-            "أخرج الدجاج من الفرن ودعه يبرد. بعد تبريد الدجاج بالكامل ، قطع الدجاج إلى قطع صغيرة.",
-            "في وعاء كبير ، أضف الدجاج والكرفس والمايونيز والخردل البني والملح. يُقلى المزيج حتى يُغطى الدجاج بالكامل وتُمزج المكونات جيداً.",
-            "يُغطى الوعاء بغطاء أو غلاف بلاستيكي ويوضع في الثلاجة حتى تبرد لمدة ساعة إلى ساعتين.",
-            "عندما يصبح جاهزًا للتقديم ، أضف الشبت الطازج والبقان المفروم. يقدم باردا وبالهنا والشفا."
-        ]
-    },
-    {
         "id": "13",
         "id_cat": "3",
         "title": "وصفة زيت الزيتون لتبييض الأسنان",
@@ -166,50 +33,6 @@
         "paragraphe": "من الطرق الفعالة والبسيطة لتبييض الأسنان، كما أن زيت الزيتون مهم لصحة اللثة وتقويتها وحمايتها من التعرّض للنزيف.",
         "steps": [
             "وضع قطرات من زيت الزيتون على قطعة من القطن ثم فرك الأسنان بها ما يساعد على تبييضها"
-        ]
-    },
-    {
-        "id": "14",
-        "id_cat": "3",
-        "title": "وصفة عصير الليمون لتبييض الأسنان",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggK7PKa62CiEQ4NP5UQu-lZp3R7afaEVY2---5FDRLzfEZ0__dv3wQzaHDV1hrufD6BjTkcjtMm0eJ-T01Ei3Co1uxrTorZwG6_n8bEBF9lmmX2J6b5PNCrLP8r1IM0KNb5qPoyfiQBjL7DTBc0xm8ObWi89s6SJXmOvF71PqygXI7JkLNQtBuGjk6/s1024/2.jpg",
-        "paragraphe": "للحصول على أسنان بيضاء لامعة يمكنك خلط ملعقة من عصير الليمون مع القليل من صودا الخبز، ثم فرك الأسنان بها جيداً باستخدام فرشاة الأسنان",
-        "steps": [
-            "مع الحرص على عدم ترك الخليط على الأسنان لفترة طويلة."
-        ]
-    },
-    {
-        "id": "15",
-        "id_cat": "3",
-        "title": "وصفة قشر الموز لتبييض الأسنان",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidYBxYgjI6YNb1oVCQg0wzbGuzOoqeziW4U8-gMgV6If2Xczc8MEk3Y40px3nHYKidcQ7HPlgvmHjBNQZYfpoAMRyZQoDQG32q4hTbLFrx88M3ye13qgnxz7f3KQJXmGiG2LU1KiCfqyFki3-W80Hf_VTotEBrzIe2_jhxVBoUHD1nbezG5vhdd517/s1080/3.jpg",
-        "paragraphe": "قشر الموز يحتوي على البوتاسيوم والماغنسيوم وبعض المعادن الأخرى التي بدورها تساعد على تبييض الأسنان",
-        "steps": [
-            "يمكنك تدليك الأسنان بجزء من قشر الموز."
-        ]
-    },
-    {
-        "id": "16",
-        "id_cat": "3",
-        "title": "وصفة الفراولة لتبييض الأسنان",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8GrFe4SS9STvVE8EBE4oO6v-emhF7rbu8VyUaHJsljopuO1jPyj4MWacTdd-pWOrFm1D2RCTEveqUdted6RAS7XltNK07Hx9AAwVvUF5e0EP2eZzN23Rzww3uRheFKQx1EQiSha8_EgdQpDsPXHSeSQ0CCISli6Tb2p5LWutCvfE4JxxZkLCzUOEl/s1138/4.webp",
-        "paragraphe": "الفراولة مهمة للتخلص من اصفرار الأسنان، إذ إنها تحتوي على حمض الماليك وهو من الأحماض الفعالة للتخلص من تراكمات الشاي والقهوة",
-        "steps": [
-            "مكنك خلط ثمرتين من الفراولة المهروسة مع ملعقة صغيرة من صودا الخبز",
-            "فرك الأسنان بها لبضع دقائق وتغسل الأسنان بعدها بالماء."
-        ]
-    },
-    {
-        "id": "17",
-        "id_cat": "3",
-        "title": "تبييض الأسنان بالفحم",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSG_PpAWnLVy4PWBt2Ps3WRWVHW7ik0nXYvBtSULop1wSh0l_Mp6rOn6VeVaa7wrBCCDwn3CrRiXC9zNhoGWhWX3EFXCD49zSGr9Q0FXbVc_gBfQCQ-ngsdlyd17nIURsrqqb58r9_Xrt908RYSwvaudpL1CpAKXWreAw4y32fO49LPwwunFPSRnPy/s800/5.jpg",
-        "paragraphe": "للحصول على وصفة لتبيض الأسنان من الصفار يمكنك استخدام الفحم والذي يعد من أفضل المكونات التي لها دور كبير في التخلص من البقع الصفراء على الأسنان.",
-        "steps": [
-            "عليك بترطيب فرشاة الأسنان بالقليل من الماء ثم وضع مسحوق الفحم عليها.",
-            "تفريش الأسنان بشكل جيد بتحريك الفرشاة بحركات من الأعلى إلى الأسفل.",
-            "الاستمرار في تفريش الأسنان لمدة 5 دقائق، ثم غسل الأسنان والمضمضة بالماء.",
-            "عليك بتكرار هذه الوصفة لمدة 5 أيام للحصول على نتائج فعالة لتبييض الأسنان بشكل أفضل."
         ]
     },
     {
@@ -225,41 +48,6 @@
         ]
     },
     {
-        "id": "19",
-        "id_cat": "4",
-        "title": " شاي اليانسون",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiSCsjdxys3GedUzcd8RdsxJTJ4_pHyfwoHzENxVSsPagJeEvD6bPEoTjhmDdhAxsCvFNj5jWbgHsjju_5cgl-Rz3paq53mR8BkRtfD_H2xWc5LCsW1oYIj47h0wPMDvfqc1fngNlTcQju03TWq0gjcqULhErN-mDIjjUW4P5d4Y1IiDN1uexkbS8I/s475/2.png",
-        "paragraphe": "لطالما استخدم اليانسون لعلاج العديد من المشاكل الصحية وخاصة مشاكل الجهاز الهضمي والمعدة، فهو يمتلك خواص مهدئة، وبذلك يُعد من أفضل الأعشاب لعلاج القولون العصبي",
-        "steps": [
-            "أما لكيفية استخدامه فهي تتم من خلال غلي أو نقع ملعقة كبيرة من بذور اليانسون في الماء الفاتر",
-            " أو إضافة مسحوقها إلى كوبين من المياه المغلية وشربها لتحصل على الفائدة."
-        ]
-    },
-    {
-        "id": "20",
-        "id_cat": "4",
-        "title": " شاي الشمر",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY0STWdd3BrmpZVldhWzf_SSBjnapcN1HtfIeMKd2iaARjBIOmgywQKmKRIcP-H6LxpbAFIWr_ISRqe9w6M27F-M5NGmNR_xWQ9kE6uj1UkxsoJISQBnMEW3PiaGx77ctWD29tQ2oR0iUD-cjklJaWEJsZJ20y4sH9YpXr5T7cnT8d6pYg0LV_0l9H/s401/33333.png",
-        "paragraphe": "يعتبر شاي الشمر علاج مستخدم في طرد الغازات، والتخلص من النفخة والتلبكات المعوية، وهو يعمل على استرخاء عضلات الأمعاء، وعلاج الإمساك. في دراسة تبين أن خليط من زيت الشمر مع الكركم ساهم في علاج أعراض القولون العصبي بشكل إيجابي، وبعد ثلاثين يوم شعر المشتركون بأن الأعراض قد اختفت وأصبحو يشعرون بألم أقل في البطن وشعروا براحة أكثر بتحسن جودة حياتهم. كما وبينت دراسة أخرى أن خلط الشمر مع بذور الكراوية والنعناع ساهم بشكل كبير في علاج أعراض القولون العصبي",
-        "steps": [
-            "يتم القيام بتحضيره عامةً من خلال استخدم ملعقتين كبيرتين من مسحوق بذور الشمر مع كوب كبير من المياه الساخنة واتركهما ليختلطوا جيدًا لمدة عشر دقائق",
-            " أو من خلال استخدام أكياس الشمر"
-        ]
-    },
-    {
-        "id": "21",
-        "id_cat": "4",
-        "title": " فوائد شرب شاي الأعشاب لعلاج القولون العصبي",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHoyNl9fMkqieZ-F1QtSCvNrU57rCzM0ph6LurhcwN1s7mcc6paKjluDEyBS_NnLs8NKIghXkzdj29Z9t7O9JV7R1l9wsOfcBNPQ6JIf5kznd9ZvxmVzXCd1TOy8Ao6NAW8GTT4hyr1jjmo2og_IFY9gxSV2vTIPgMuniBtrPGSppqOQyTBO0W94Is/s1200/4.png",
-        "paragraphe": "العديد من الفوائد قد يحملها لك شرب الأعشاب المنوعة ولكن بشكل عام توجد مجموعة مرتبطة منها بعلاج القولون، وهي",
-        "steps": [
-            "يساعد شاي الأعشاب على الاسترخاء ويقلل من الضغوطات النفسية",
-            "يساعد على استرخاء عضلات الأمعاء وعلاج التقلصات المعوية",
-            "زيادة كمية السوائل المتناولة التي تعمل على تنظيم عمل الجهاز الهضمي",
-            "كونها تشرب ساخنة تساهم في إراحة الجهاز الهضمي وتسهيل عملية الهضم"
-        ]
-    },
-    {
         "id": "22",
         "id_cat": "5",
         "title": " مقشر القهوة",
@@ -269,98 +57,6 @@
             "اخلطي ملعقة كبيرة من القهوة المطحونة مع ملعقة كبيرة من المياه أو زيت الزيتون ووزعى  الخليط على بشرتك",
             "اتركي القناع على بشرتك لمدة 15 دقيقة ثم اغسلى وجهك بالمياه الفاترة",
             "وفى حالة البشرة الدهنية فلا يفضل استخدام زيت الزيتون  فى المكونات واستبداله بالمياه"
-        ]
-    },
-    {
-        "id": "23",
-        "id_cat": "5",
-        "title": "مقشر من البيكينج صودا",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQZhBJWNvdspJ_tVG_ARJGZnQW1ToC_Q7rHd0FCJxAd-6IRCismBgkxnJYgVj4TH7wzRvga05W58UIKoe13_LA9OC-i9KPSLp59JeEXbPmFCVL-DLKyDFFpZi-vwFC-VCDOw-PZl3k-KDcOd0aHMmcZC3RhAxo-1184n9MhPpT89ATBmTjU6yOeAE/s320/2.png",
-        "paragraphe": "يُعد بيكربونات الصوديوم مُقشر لطيف للبشرة",
-        "steps": [
-            "اخلطي بيكربونات الصوديوم مع المياه وضعيها على الوجه",
-            "واتركيه على بشرتك لمدة 10 دقائق ثم اغسلي وجهك بالماء الفاترة وجففيه باستخدام المنشفة",
-            "يمكنك استخدام خليط العسل وبيكربونات الصوديوم، وبالنسبة للبشرة الحساسة، يمكنك استخدام بيكربونات الصوديوم والصبار"
-        ]
-    },
-    {
-        "id": "24",
-        "id_cat": "5",
-        "title": "قناع الأفوكادو والسكر",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx6d5KBEY6csKaCuaJNdBsW4A9JlKHMXphOUxmHQvOKH87lNXdc2ju1scjiZvRydq58CJEbZLnaOlBWOFRmSFiaG3WhlWzSeFO--xNx2pobJCapPK5FNOyO3LoIIjkq32P2KJ9npeMyRFIl0QtezfljWR7mcpMWn8XziCjAdQm7nRUfgeXcxaZAlIb/s320/3.png",
-        "paragraphe": "ويفيد السكر فى عمل التقشير، بينما يساعد الافوكادو والعسل على الترطيب",
-        "steps": [
-            "ستحتاجين إلى هرس ثمرة من الأفوكادو وخلطها مع  ملعقتين كبيرتين من العسل وملعقة كبيرة من السكر",
-            "اتركى المقشرعلى بشرتك لمدة 15-20 دقيقة ثم غسله بالماء الفاتر",
-            "ولصاحبات البشرة الدهنية يمكن إضافة 1-2 ملعقة صغيرة من عصير الليمون الطازج للمساعدة فى شد الجلد وتجفيف المسام"
-        ]
-    },
-    {
-        "id": "25",
-        "id_cat": "6",
-        "title": "جل الصبار للرقبة الداكنة",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGykSfwUqaoUV6qzqzweLSVsGMhMwyUiTjHY_q5fBMlFVs113AL0-M1deZahcMFXF_Z2xERK5iIdpVEc34SfuyP9nkUH0RjqwAqwIk1QGWx1hbpA_yABvNZxWrJjTOqcYMtEbRtJVl7Q6MT0P-_lREDknhU_sBQdijnn9onymO1_QQ86i2Jwavj32o/s320/1.png",
-        "paragraphe": "يساعد  ، وهو فلافونويد موجود في الصبار ، على تفتيح البشرة عن طريق تثبيط نشاط الإنزيم الذي يسبب تصبغ الجلد. يحافظ الصبار أيضًا على ترطيب البشرة وتغذيتها لاحتوائها على الأحماض الدهنية الأساسية والفيتامينات والمعادن",
-        "steps": [
-            "جل الصبار",
-            "اقطع الورقة واستخرج الهلام",
-            "ضع المزيج على الرقبة ثم افرك رقبتك لبضع دقائق باستخدام هذا الجل. اتركه لمدة 10 دقائق",
-            "يشطف بالماء"
-        ]
-    },
-    {
-        "id": "26",
-        "id_cat": "6",
-        "title": "خل التفاح لعلاج سواد الرقبة",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj05m5m5xI0revE_yyhoIyzUoLG_TmAQzg0wQmt9ZLDYU4zAQAx_VC-jK6Y-mfkIsuOjM3H3JOxdOMQ0g2T7-w609TqdM1U9qHAaZPamBvt8OrWiUBSykeHAs70A2MEoSgJbhp0hTJwG23ZndAPNRTCBwS7oE74ZMIujrKhPscMMTy2q4HHc85EDhJn/s320/2.png",
-        "paragraphe": "يوازن درجة حموضة البشرة ، مما يمنحها توهجًا طبيعيًا. كما أنه يزيل خلايا الجلد الميتة التي تراكمت على الجلد ويجعلها تبدو داكنة وباهتة. يعمل خل التفاح على تقشير سواد الرقبة بسبب حمض الماليك الموجود في خل التفاح يمكن لهذا العلاج إزالة سواد الرقبة في أسبوع بإستخدام خل التفاح الطبيعي",
-        "steps": [
-            "2 ملاعق كبيرة خل التفاح",
-            "4 ملاعق كبيرة ماء",
-            "كرة قطن",
-            "خفف خل التفاح بالماء وضعي هذا المحلول بقطعة قطن على الرقبة",
-            "اتركيه لمدة 10 دقائق ثم اشطفيه بالماء",
-            "كرر هذا كل يوم بديل"
-        ]
-    },
-    {
-        "id": "27",
-        "id_cat": "6",
-        "title": "زيت اللوز لتبيض الرقبة",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUe5KNY7tEt6GsL-R-6PJeHa3a-5gAylIRIkIjT-f7rwHRyRWk5lLKqtBKWkk83OzIDZd8wI4isgn8a2QntVpObbwL8nA5f9p0nbM8apCKQcKZTIelodEuGIFjgIEW0lMIQHY0xeHqBRLydLA2lSIQNcgsWNW3EiFBSvcrAMJVxUu3VQoCjNKNH93S/s320/3.png",
-        "paragraphe": "زيت اللوز غني بفيتامين الذي ينعم البشرة ويجددها. كما أنه عامل تبييض خفيف بخصائصه المتصلبة التي تساعد في تحسين لون البشرة ( 5 ). يحسن زيت شجرة الشاي الدورة الدموية ويشفى أي ندوب أو عيوب قد تكون موجودة",
-        "steps": [
-            "بضع قطرات من زيت اللوز أو زيت جوز الهند",
-            "1-2 قطرات من زيت شجرة الشاي (اختياري)",
-            "نظف منطقة رقبتك بالماء والصابون. جففها بالتربيت عليها",
-            "دلّكي رقبتك الآن بزيت اللوز أو زيت جوز الهند. إذا كان لديك زيت شجرة الشاي في جميع أنحاء المنزل ، قم بإضافته إلى الزيت الناقل للحصول على نتائج أفضل",
-            "استمر في التدليك في حركات دائرية لمدة 10-15 دقيقة",
-            "اشطفه بالماء الفاتر. يمكنك أيضًا استخدام كرة قطنية لمسح الزيت"
-        ]
-    },
-    {
-        "id": "28",
-        "id_cat": "6",
-        "title": "صودا الخبز لإزالة سواد الرقبة",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKNDDDzLNPqa0L4ovxBtBhzHe8dx5GdY5dA4XusZ1lInPZxY2nhBsEaxIs3mfCJbypjBQb0kDubrqEbhk_f8UwMO-196SgJUNq4aZtNLfqsj6rZN7tn9W6m17mnugMucGWlL1LVaKMhHvGgcVNDcc7NUEUMtDgXrafoVIkthhbGFlp1SzjV1RG3rXw/s320/4.png",
-        "paragraphe": "تساعد هذه العبوة على إزالة طبقة الجلد الباهتة والميتة بسهولة من رقبتك. من المعروف أيضًا أن صودا الخبز تعزز الدورة الدموية ، وهذا يغذي بشرتك من الداخل",
-        "steps": [
-            "أضف كمية كافية من الماء إلى صودا الخبز للحصول على عجينة ناعمة",
-            "ضع العجينة على الرقبة واتركها تجف",
-            "بمجرد أن يجف ، افركه باستخدام أصابع مبللة. اشطف المنطقة بالماء النظيف",
-            "جففيها ورطبيها"
-        ]
-    },
-    {
-        "id": "29",
-        "id_cat": "6",
-        "title": "وصفة زيت الزيتون وعصير الليمون لسواد الرقبة",
-        "imgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOmVlkPziPEqmDiMM_cYhaLy07_Fn-tPw1uGX-LdbzBXRZk_XlNDU2J160r9vxPvHTGUAFzYQrPhrRjcFcN8fn40HkIHehpc-0gO6S0sVzS5k8xx-kxEXBxGLBDZNy2h2O_XMzs7uNDqRHq3IrF3vUCNmAJygDoNTAZcY2UbnzjCYxxaJTB0tmnHI0/s320/5.png",
-        "paragraphe": "الليمون له خصائص تبييض طبيعية. يضيء البشرة ويقلص المسام أيضًا،  زيت الزيتون يرطب البشرة ويجعلها ناعمة",
-        "steps": [
-            "اخلطي أجزاء متساوية من عصير الليمون وزيت الزيتون",
-            "ضعي هذا المصل على رقبتك قبل الذهاب إلى الفراش",
-            "افعل ذلك يوميًا لمدة شهر أو نحو ذلك لترى نتائج تفتيح البشرة المرئية"
         ]
     },
     {
